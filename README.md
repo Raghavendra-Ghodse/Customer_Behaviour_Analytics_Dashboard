@@ -10,6 +10,7 @@ This project analyzes customer shopping behavior using transactional retail data
 The objective is to help businesses understand customer purchasing patterns, product performance, customer segmentation, and revenue trends for better decision-making.
 
 🚀 **Features**
+
 Data Cleaning & Preprocessing using Python
 Missing Value Treatment
 Feature Engineering
@@ -23,6 +24,7 @@ Subscription & Loyalty Analysis
 
 
 🛠 **Tech Stack**
+
 Tool	- Purpose
 Python -	Data Cleaning & Feature Engineering
 Pandas	- Data Manipulation
@@ -34,10 +36,12 @@ Git & GitHub	- Version Control
 
 
 📂 **Dataset Information**
+
 Total Records: 3,900
 Total Columns: 18
 
 Dataset includes:
+
 Customer Demographics
 Purchase Information
 Product Categories
@@ -51,6 +55,7 @@ Purchase Frequency
 
 
 📊 **Project Workflow**
+
 Raw Dataset
       │
       ▼
@@ -73,6 +78,7 @@ Business Insights
 
 
 **🐍 Python Tasks Performed**
+
 ✔ Data Loading
 
 ✔ Data Exploration
@@ -96,6 +102,7 @@ Purchase Frequency Calculation
 
 🗄 **SQL Business Analysis**
 
+
 The following business questions were answered using SQL:
 
 Revenue by Gender
@@ -111,6 +118,7 @@ Revenue Contribution by Age Group
 
 
 📈 **Power BI Dashboard**
+
 The dashboard provides interactive visualizations including:
 
 Total Revenue
@@ -128,6 +136,7 @@ Interactive Filters (Slicers)
 
 
 💡 **Key Business Insights:**
+
 --Subscribers contribute higher overall revenue.
 --Loyal customers generate significant repeat purchases.
 --Certain products heavily rely on discounts for sales.
@@ -139,7 +148,11 @@ Interactive Filters (Slicers)
 
 ![Customer Behaviour Dashboard](customer_behaviour_dashboard_png.jpg)
 
+
+
 📁 Project Structure
+
+
 Customer-Shopping-Behavior-Analysis/
 
 │
@@ -161,10 +174,14 @@ Customer-Shopping-Behavior-Analysis/
 ├── README.md
 │
 └── requirements.txt
+
 ⚙ Installation
+
 Clone Repository
-git clone https://github.com/yourusername/Customer-Shopping-Behavior-Analysis.git
+git clone https://github.com/Raghavendra-Ghodse/Customer_Behaviour_Dashboard.git
+
 Install Dependencies
+
 pip install pandas
 pip install numpy
 pip install psycopg2
@@ -195,6 +212,7 @@ Open
 Customer_Behaviour_Dashboard.pbix
 
 Refresh the data connection if required.
+
 
 📌 Business Recommendations
 Increase customer subscription benefits.
