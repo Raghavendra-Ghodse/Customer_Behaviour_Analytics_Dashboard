@@ -2,6 +2,7 @@
 End-to-end Customer Behavior Analytics Dashboard using Python, SQL, and Power BI with data cleaning, feature engineering, business analysis, and interactive dashboards.
 
 Customer Shopping Behavior Analysis Dashboard
+
 📌 **Project Overview**
 
 This project analyzes customer shopping behavior using transactional retail data to uncover valuable business insights. The analysis combines Python, PostgreSQL, SQL, and Power BI to build an end-to-end data analytics solution—from data cleaning to interactive business dashboards.
